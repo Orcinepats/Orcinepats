@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Patricia Orcine
-- 👀 I’m interested in Data Analysis, Data Visualization and Machine Learning
+- 👀 I’m interested in Data Analysis, Data Visualization, and Machine Learning
 - 🌱 I’m currently a Associate Technical Analyst
 - 📫 How to reach me (https://www.linkedin.com/in/patricia-mae-orcine-6ba0a4285/)
 - 😄 Pronouns: She/Her
