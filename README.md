@@ -3,6 +3,7 @@
 - 🌱 I’m currently an Associate Technical Analyst.
 - 📫 How to reach me (https://www.linkedin.com/in/patricia-mae-orcine-6ba0a4285/)
 - 😄 Pronouns: She/Her
+- ✨ Fun fact: I love travelling
 
 <!---
 Orcinepats/Orcinepats is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
