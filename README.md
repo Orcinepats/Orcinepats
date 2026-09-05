@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Patricia Orcine
+- 👋 Hi, I’m Patricia Orcine, you can call me Trish.
 - 👀 I’m interested in Data Analysis, Data Visualization, and Machine Learning.
 - 🌱 I’m currently an Associate Technical Support Analyst.
 - 📫 How to reach me (https://www.linkedin.com/in/patricia-mae-orcine-6ba0a4285/)
